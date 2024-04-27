@@ -1,0 +1,6 @@
+name: stats
+description: collects repository stats. 
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
